@@ -1,5 +1,6 @@
 import streamlit as st
 import os
+import pydub
 from pydub import AudioSegment
 
 # Streamlit App Title
